@@ -1,0 +1,12 @@
+p{
+    height: 200px;
+    width: 200px;
+    color: aqua;
+    background: red;
+    margin: 20px;
+}
+.ase{
+    text-align: right;
+   color: black;
+   text-emphasis: none;
+}
